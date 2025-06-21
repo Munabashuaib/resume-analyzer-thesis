@@ -76,7 +76,7 @@ This project is part of my Bachelor's thesis titled:
 **"AI-Powered Resume Analyzer for Job Matching"**  
 Submitted to [Your University Name], June 2025.
 
-GitHub Link: [https://github.com/yourusername/resume-analyzer-thesis](https://github.com/yourusername/resume-analyzer-thesis)
+GitHub Link: https://github.com/Munabashuaib/resume-analyzer-thesis
 
 ---
 
