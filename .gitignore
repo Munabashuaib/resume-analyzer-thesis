@@ -1,0 +1,39 @@
+# Python & Flask
+__pycache__/
+*.pyc
+*.log
+*.db
+instance/
+uploads/
+flask_session/
+
+# Virtual Environments
+venv/
+venv310/
+
+# Node.js / React
+node_modules/
+*.exe
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Ignore large files and unnecessary folders
+*.zip
+*.exe
+*.dll
+*.lib
+*.safetensors
+*.csv
+venv/
+venv310/
+__pycache__/
+*.db
+*.log
+uploads/
+flask_session/
+node_modules/
